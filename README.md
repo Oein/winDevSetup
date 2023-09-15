@@ -25,3 +25,7 @@
 11. Make Hidden
 12. Eslint
 13. Prettier
+
+## PPT 제작
+
+PPT 제작 프로그램으로는 snappify가 좋다
